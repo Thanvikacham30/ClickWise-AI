@@ -4,7 +4,7 @@
 
 The **CTR (Click-Through Rate) Prediction System** is a machine learning web application that predicts whether a user is likely to click on an online advertisement.
 
-The project uses a **Logistic Regression** model trained on advertising data and is deployed using **Flask** to provide real-time predictions through a simple and user-friendly web interface.
+The project uses a **Logistic Regression** model trained on advertising data and is deployed using **Flask** to provide real-time predictions through a simple and user-friendly web interface.   
 
 ## 🚀 Live Demo
 
